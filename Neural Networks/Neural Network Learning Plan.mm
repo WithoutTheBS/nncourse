@@ -157,7 +157,7 @@
 <node TEXT="Basic Matrix Operations" ID="ID_1678637567" CREATED="1691976517460" MODIFIED="1691982359823" NUMBERED="true">
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
-<node TEXT="Addition and Subtraction" ID="ID_31738536" CREATED="1691988178874" MODIFIED="1691988279018"><richcontent TYPE="DETAILS">
+<node TEXT="Addition and Subtraction" ID="ID_31738536" CREATED="1691988178874" MODIFIED="1691995869927" LINK="html/1112/addsubtract.html"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -170,7 +170,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Scalar Multiplication" ID="ID_409558921" CREATED="1691988181068" MODIFIED="1691988306895"><richcontent TYPE="DETAILS">
+<node TEXT="Scalar Multiplication" ID="ID_409558921" CREATED="1691988181068" MODIFIED="1691995918933" LINK="html/1112/scalarmult.html"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -183,7 +183,7 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="Matrix Multiplication (Dot Product)" ID="ID_356341005" CREATED="1691988181388" MODIFIED="1691988341223"><richcontent TYPE="DETAILS">
+<node TEXT="Matrix Multiplication (Dot Product)" ID="ID_356341005" CREATED="1691988181388" MODIFIED="1691995907577" LINK="html/1112/matrixmult.html"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -292,7 +292,7 @@
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
 </node>
 </node>
-<node TEXT="Programming Language &amp; Libraries" POSITION="bottom_or_right" ID="ID_809694601" CREATED="1691975362570" MODIFIED="1691982359824" NUMBERED="true">
+<node TEXT="Programming Language &amp; Libraries" FOLDED="true" POSITION="bottom_or_right" ID="ID_809694601" CREATED="1691975362570" MODIFIED="1691982359824" NUMBERED="true">
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
 <node TEXT="Rust" ID="ID_95572768" CREATED="1691976070885" MODIFIED="1691979865308" NUMBERED="true"/>
@@ -302,19 +302,19 @@
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
 </node>
-<node TEXT="Online Resources" POSITION="bottom_or_right" ID="ID_1210031803" CREATED="1691975362570" MODIFIED="1691982359825" TEXT_SHORTENED="true" NUMBERED="true">
+<node TEXT="Online Resources" FOLDED="true" POSITION="bottom_or_right" ID="ID_1210031803" CREATED="1691975362570" MODIFIED="1691982359825" TEXT_SHORTENED="true" NUMBERED="true">
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
 <node TEXT="Courses" ID="ID_1302287070" CREATED="1691976127893" MODIFIED="1691979898514" NUMBERED="true"/>
 <node TEXT="Tutorials" ID="ID_1330463915" CREATED="1691976143060" MODIFIED="1691979905680" NUMBERED="true"/>
 <node TEXT="Books" ID="ID_1730984595" CREATED="1691976143700" MODIFIED="1691979908581" NUMBERED="true"/>
 </node>
-<node TEXT="Iterations and Experiments" POSITION="bottom_or_right" ID="ID_608533590" CREATED="1691975362570" MODIFIED="1691982359825" NUMBERED="true">
+<node TEXT="Iterations and Experiments" FOLDED="true" POSITION="bottom_or_right" ID="ID_608533590" CREATED="1691975362570" MODIFIED="1691982359825" NUMBERED="true">
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
 <node TEXT="Tools" ID="ID_1007966288" CREATED="1691976187303" MODIFIED="1691979912312" NUMBERED="true"/>
 </node>
-<node TEXT="Communities and Collaborations" POSITION="bottom_or_right" ID="ID_1822145793" CREATED="1691975362570" MODIFIED="1691982359825" NUMBERED="true">
+<node TEXT="Communities and Collaborations" FOLDED="true" POSITION="bottom_or_right" ID="ID_1822145793" CREATED="1691975362570" MODIFIED="1691982359825" NUMBERED="true">
 <richcontent TYPE="DETAILS" CONTENT-TYPE="plain/auto"/>
 <richcontent TYPE="NOTE" CONTENT-TYPE="plain/auto"/>
 <node TEXT="Forums" ID="ID_1635492212" CREATED="1691976206369" MODIFIED="1691979914402" NUMBERED="true"/>
